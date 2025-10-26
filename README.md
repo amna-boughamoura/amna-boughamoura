@@ -52,12 +52,25 @@
 
 ---
 
-## 🧰 Skills & Technologies
+---
 
-**Programming:** Python, C, HTML, CSS  
-**Hardware & IoT:** Arduino, Sensors integration (DHT11, LM35, LDR, soil moisture)  
-**AI & CV:** DeepFace, Emotion Recognition, Computer Vision  
-**Other:** UI/UX Design, Project Management, Event Coordination
+## 🧰 Technical Skills & Tools
+
+**Programming & ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/ComputerVision-FF6F00?style=flat)
+![DeepFace](https://img.shields.io/badge/DeepFace-AI-success?style=flat)
+
+**IoT & Embedded**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=flat&logo=espressif&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-IoT-green?style=flat)
+
+**Web & UI**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-pink?style=flat)
 
 ---
 
@@ -79,3 +92,12 @@
 
 Thank you for visiting my profile!  
 Feel free to explore my future repositories and projects. 🚀
+
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/amna-boughamoura-b947b024b/))
+[![Email](https://img.shields.io/badge/Email-amna.boughamoura%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:amna.boughamoura@gmail.com)
+
