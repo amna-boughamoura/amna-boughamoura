@@ -96,8 +96,13 @@ Feel free to explore my future repositories and projects. 🚀
 
 ---
 
+---
+
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/amna-boughamoura-b947b024b/))
+<!-- Badge style -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-boughamoura-b947b024b/)
 [![Email](https://img.shields.io/badge/Email-amna.boughamoura%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:amna.boughamoura@gmail.com)
+
+
 
