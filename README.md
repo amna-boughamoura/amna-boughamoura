@@ -1,5 +1,4 @@
-# 👋 Hello and welcome!
-I am **Amna Boughamoura**
+# 👋 Hello and welcome! I'm **Amna Boughamoura**
 
 📍 Monastir, Tunisia  
 📧 amna.boughamoura@gmail.com  
